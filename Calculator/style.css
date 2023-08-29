@@ -1,0 +1,54 @@
+.center{
+    text-align: center;
+    font-weight: 200;
+
+}
+
+
+.bg-red{
+    background-color: aqua;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 3px;
+    border: 2px solid;
+    border-radius: 9px;
+    cursor: pointer;
+
+}
+
+.flex{
+    justify-content: center;
+    display: flex;
+}
+
+.flex-col{
+
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+
+}
+
+.row{
+    margin: 8px 0;
+
+}
+
+.row input{
+    width: 295px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
